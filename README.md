@@ -15,11 +15,15 @@ A powerful, AI-assisted tool designed to streamline the process of creating high
     *   **Gemini 2.5 Pro & Flash** (High performance and speed)
     *   **Gemini 2.0 Flash** (Extremely fast and efficient)
     *   **Gemini 1.5 Pro & Flash** (Reliable stable versions)
+      
 *   **Multiple Captioning Styles:** Choose the method that fits your training needs:
     *   **Descriptive:** Detailed natural language descriptions (strictly literal, no fluff).
     *   **Danbooru-Style Tags:** Comma-separated tags standard in anime model training.
     *   **WD1.4-Style Tags:** Optimized for Waifu Diffusion style tagging.
     *   **CLIP/T5-Style:** Concise sentences optimized for CLIP/T5 text encoders.
+ 
+![UI](https://github.com/RalFingerLP/lora-captioner/blob/main/ui2.png?raw=true)
+
 *   **Unique Dataset Identifiers:** Automatically inject unique trigger words (tokens) or style descriptions into every caption to ensure your LoRA learns specific concepts.
 *   **Batch Processing:** Caption individual images or process your entire dataset at once.
 *   **Smart Export:** Download your dataset as a ZIP file containing:
