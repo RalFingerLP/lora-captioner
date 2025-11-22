@@ -73,7 +73,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Upload Images:** Drag and drop a folder or select images to begin.
 2.  **Select AI Model:** Choose from the latest Gemini models in the dropdown (e.g., Gemini 2.0 Flash, Gemini 3 Pro Preview).
-3.  **Choose Method:** Select your desired captioning style (e.g., Descriptive for SDXL/Flux, Danbooru for Anime models).
+3.  **Choose Method:** Select your desired captioning style (e.g., Descriptive for Qwen/Flux, Danbooru for SD1.5 or similar models).
 4.  **Set Instructions (Optional):** Add a "System Prompt" to guide the AI (e.g., "Focus on clothing details").
 5.  **Unique Identifier (Optional):** Enter a unique token (e.g., `ral-trigger`) to prefix all captions. You can ask the AI to suggest one!
 6.  **Generate:** Click "Caption All" to process the entire dataset.
