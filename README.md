@@ -57,22 +57,6 @@ Before you begin, ensure you have the following installed:
 3.  **Configure API Key:**
     *   Get a free API key from [Google AI Studio](https://aistudio.google.com/).
     *   Create a `.env` file in the root directory by copying the example file.
-
-    **Mac / Linux:**
-    ```bash
-    cp .env.example .env
-    ```
-
-    **Windows (Command Prompt):**
-    ```cmd
-    copy .env.example .env
-    ```
-
-    **Windows (PowerShell):**
-    ```powershell
-    Copy-Item .env.example .env
-    ```
-
     *   Open the newly created `.env` file in a text editor and replace the placeholder with your actual key:
         ```env
         GEMINI_API_KEY=your_actual_api_key_here
