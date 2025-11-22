@@ -4,7 +4,7 @@
 
 A powerful, AI-assisted tool designed to streamline the process of creating high-quality image datasets for training LoRA (Low-Rank Adaptation) models. This application allows you to easily caption images using state-of-the-art Google Gemini AI models, manage unique dataset tokens, and export everything in a format ready for training.
 
-![UI](](https://github.com/RalFingerLP/lora-captioner/blob/main/ui.png))
+![UI](https://github.com/RalFingerLP/lora-captioner/blob/main/ui.png?raw=true)
 
 **[View Changelog](CHANGELOG.md)**
 
