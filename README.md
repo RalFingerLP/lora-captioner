@@ -25,12 +25,15 @@ A powerful, AI-assisted tool designed to streamline the process of creating high
 ![UI](https://github.com/RalFingerLP/lora-captioner/blob/main/ui2.png?raw=true)
 
 *   **Unique Dataset Identifiers:** Automatically inject unique trigger words (tokens) or style descriptions into every caption to ensure your LoRA learns specific concepts.
+
 *   **Batch Processing:** Caption individual images or process your entire dataset at once.
+
 *   **Smart Export:** Download your dataset as a ZIP file containing:
     *   Original images.
     *   Corresponding `.txt` caption files.
     *   A PDF documentation report with dataset overview and word clouds.
     *   A processing log.
+   
 *   **Privacy Focused:** Your API key is stored locally in your environment variables and is never shared.
 
 ## 🛠️ Tech Stack & Credits
