@@ -1,0 +1,6 @@
+{
+  "name": "LoRA Captioner",
+  "description": "An application to help create .txt caption files for image datasets, useful for training LoRA (Low-Rank Adaptation) models for image diffusion. Select a folder of images, write captions for each, and download them all in a ZIP archive.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
