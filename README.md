@@ -1,6 +1,6 @@
 # LoRA Captioner
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?logo=discord&logoColor=white)](https://discord.com/invite/pAz4Bt3rqb)
 
 A powerful, AI-assisted tool designed to streamline the process of creating high-quality image datasets for training LoRA (Low-Rank Adaptation) models. This application allows you to easily caption images using state-of-the-art Google Gemini AI models, manage unique dataset tokens, and export everything in a format ready for training.
 
