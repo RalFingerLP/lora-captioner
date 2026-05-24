@@ -4,6 +4,8 @@
 
 A powerful, AI-assisted tool for building high-quality image datasets for training LoRA (Low-Rank Adaptation) models. Caption images using **Google Gemini**, **OpenAI**, or your **own local LLM** (LM Studio / llama.cpp), manage unique dataset tokens, and export everything as a training-ready ZIP.
 
+![UI](https://github.com/RalFingerLP/lora-captioner/blob/main/ui.png?raw=true)
+
 **[View Changelog](CHANGELOG.md)**
 
 ## 🚀 What's New in 2.0
@@ -12,6 +14,8 @@ A powerful, AI-assisted tool for building high-quality image datasets for traini
 - **Run fully offline** with a local vision model in LM Studio or llama.cpp.
 - **In-UI setup checklists** for local servers so you don't have to dig through docs.
 - **Settings persist** in your browser, so swap providers freely between sessions.
+
+![UI](https://github.com/RalFingerLP/lora-captioner/blob/main/ui2.png?raw=true)
 
 ## ✨ Features
 
